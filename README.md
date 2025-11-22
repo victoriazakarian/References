@@ -1,4 +1,4 @@
-#References
+# References
 
 Advancing Earth Observation: AI-Powered Image Processing in Satellites
 Duggan, A., Andrade, B., Afli, H., arXiv, 2025
